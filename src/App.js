@@ -6,7 +6,7 @@ import {Header, Footer} from "./components";
 // import Pages; 
 import {Home, Contact, Login, Register, Reset} from "./pages";
 
-// 2:19 mins
+// 3:01 mins
  
 function App() {
   return (
