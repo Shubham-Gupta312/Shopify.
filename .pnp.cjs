@@ -42,6 +42,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-icons", "virtual:154b34f971d8e653652239f9c7ab0a4ea09fbdb76e2ca5d910f91e2fa0f2bbf51486febdd58c6f56a68c1cec638f1b8ef7326b02a7fbd5df8c3ed02fed11fa7b#npm:4.7.1"],\
             ["react-router-dom", "virtual:154b34f971d8e653652239f9c7ab0a4ea09fbdb76e2ca5d910f91e2fa0f2bbf51486febdd58c6f56a68c1cec638f1b8ef7326b02a7fbd5df8c3ed02fed11fa7b#npm:6.7.0"],\
             ["react-scripts", "virtual:154b34f971d8e653652239f9c7ab0a4ea09fbdb76e2ca5d910f91e2fa0f2bbf51486febdd58c6f56a68c1cec638f1b8ef7326b02a7fbd5df8c3ed02fed11fa7b#npm:5.0.1"],\
+            ["react-toastify", "virtual:154b34f971d8e653652239f9c7ab0a4ea09fbdb76e2ca5d910f91e2fa0f2bbf51486febdd58c6f56a68c1cec638f1b8ef7326b02a7fbd5df8c3ed02fed11fa7b#npm:9.1.1"],\
             ["sass", "npm:1.57.1"],\
             ["web-vitals", "npm:2.1.4"]\
           ],\
@@ -7590,6 +7591,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["string-width", "npm:4.2.3"],\
             ["strip-ansi", "npm:6.0.1"],\
             ["wrap-ansi", "npm:7.0.0"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["clsx", [\
+        ["npm:1.2.1", {\
+          "packageLocation": "./.yarn/cache/clsx-npm-1.2.1-77792dc182-30befca801.zip/node_modules/clsx/",\
+          "packageDependencies": [\
+            ["clsx", "npm:1.2.1"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -16035,6 +16045,33 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
+      ["react-toastify", [\
+        ["npm:9.1.1", {\
+          "packageLocation": "./.yarn/cache/react-toastify-npm-9.1.1-114b39ed7d-2039255539.zip/node_modules/react-toastify/",\
+          "packageDependencies": [\
+            ["react-toastify", "npm:9.1.1"]\
+          ],\
+          "linkType": "SOFT"\
+        }],\
+        ["virtual:154b34f971d8e653652239f9c7ab0a4ea09fbdb76e2ca5d910f91e2fa0f2bbf51486febdd58c6f56a68c1cec638f1b8ef7326b02a7fbd5df8c3ed02fed11fa7b#npm:9.1.1", {\
+          "packageLocation": "./.yarn/__virtual__/react-toastify-virtual-2f6395733e/0/cache/react-toastify-npm-9.1.1-114b39ed7d-2039255539.zip/node_modules/react-toastify/",\
+          "packageDependencies": [\
+            ["react-toastify", "virtual:154b34f971d8e653652239f9c7ab0a4ea09fbdb76e2ca5d910f91e2fa0f2bbf51486febdd58c6f56a68c1cec638f1b8ef7326b02a7fbd5df8c3ed02fed11fa7b#npm:9.1.1"],\
+            ["@types/react", null],\
+            ["@types/react-dom", null],\
+            ["clsx", "npm:1.2.1"],\
+            ["react", "npm:18.2.0"],\
+            ["react-dom", "virtual:154b34f971d8e653652239f9c7ab0a4ea09fbdb76e2ca5d910f91e2fa0f2bbf51486febdd58c6f56a68c1cec638f1b8ef7326b02a7fbd5df8c3ed02fed11fa7b#npm:18.2.0"]\
+          ],\
+          "packagePeers": [\
+            "@types/react-dom",\
+            "@types/react",\
+            "react-dom",\
+            "react"\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
       ["read-cache", [\
         ["npm:1.0.0", {\
           "packageLocation": "./.yarn/cache/read-cache-npm-1.0.0-00fa89ed05-cffc728b9e.zip/node_modules/read-cache/",\
@@ -16765,6 +16802,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-icons", "virtual:154b34f971d8e653652239f9c7ab0a4ea09fbdb76e2ca5d910f91e2fa0f2bbf51486febdd58c6f56a68c1cec638f1b8ef7326b02a7fbd5df8c3ed02fed11fa7b#npm:4.7.1"],\
             ["react-router-dom", "virtual:154b34f971d8e653652239f9c7ab0a4ea09fbdb76e2ca5d910f91e2fa0f2bbf51486febdd58c6f56a68c1cec638f1b8ef7326b02a7fbd5df8c3ed02fed11fa7b#npm:6.7.0"],\
             ["react-scripts", "virtual:154b34f971d8e653652239f9c7ab0a4ea09fbdb76e2ca5d910f91e2fa0f2bbf51486febdd58c6f56a68c1cec638f1b8ef7326b02a7fbd5df8c3ed02fed11fa7b#npm:5.0.1"],\
+            ["react-toastify", "virtual:154b34f971d8e653652239f9c7ab0a4ea09fbdb76e2ca5d910f91e2fa0f2bbf51486febdd58c6f56a68c1cec638f1b8ef7326b02a7fbd5df8c3ed02fed11fa7b#npm:9.1.1"],\
             ["sass", "npm:1.57.1"],\
             ["web-vitals", "npm:2.1.4"]\
           ],\
