@@ -8,7 +8,7 @@ import { Home, Contact, Login, Register, Reset } from "./pages";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
-// 5:24 mins
+// 5:43 mins
 
 function App() {
   return (
